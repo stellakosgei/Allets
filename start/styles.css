@@ -1,0 +1,42 @@
+h1{
+	font-family: times new roman;}
+body{
+	font-family: times new roman;
+	background-color: grey;
+	text-align: center;
+}
+h2{
+	color: #ff00ff;}
+.container{
+	padding: 50px;}
+li{
+	display: inline;
+
+}
+a:hover{
+	background-color: grey;
+}
+ul{
+display: inline;
+padding: 0;
+margin: 0;
+list-style-type: none;
+border-radius: 10px;
+}
+li a{
+	padding: 6px 6px;
+	width: 6px; 
+}
+.nav{
+	background-color: #408080;
+	height: 50px;
+	font-size: 40px;
+	border-radius: 10px;
+}
+h3{
+	color: #ff00ff;
+}
+h4{
+	color: green;
+}
+#footer{color: #00ffff;}
